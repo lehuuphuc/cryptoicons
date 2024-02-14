@@ -1,0 +1,40 @@
+{
+	"name": "cryptoicons",
+	"version": "2.4.60",
+	"description": "forked crypto icons from Cryptofonts/cryptoicons",
+	"license": "GPL-3.0",
+	"files": [
+    "128",
+    "64",
+    "32",
+    "16",
+		"SVG",
+    "PNG-icons"
+	],
+	"keywords": [
+		"cryptocurrency",
+		"icons",
+		"icon",
+		"crypto",
+		"currency",
+		"cryptocurrencies",
+		"currencies",
+		"symbols",
+		"svg",
+		"png",
+		"vector",
+		"color",
+		"coin",
+		"bitcoin",
+		"ethereum",
+		"flat-icons",
+		"altcoin",
+		"altcoins",
+		"icon-pack",
+		"icon-set",
+		"erc20-tokens",
+		"erc20",
+		"erc721"
+	],
+	"devDependencies": {}
+}
